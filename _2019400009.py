@@ -3,8 +3,8 @@ weight_list = []
 coll_time_list = []
 value_list = []
 
-
-def quick(lst):                     # Quick sort algorithm
+# Quick sort algorithm:
+def quick(lst):                     
     n = len(lst)
     if n == 1 or n == 0:
         return lst
@@ -18,8 +18,8 @@ def quick(lst):                     # Quick sort algorithm
             right.append(lst[i])
     return quick(left) + lst[:1] + quick(right)
 
-
-def weighted_calculator(remaining_limit, i):          # This only considers weight limit.
+# This function only considers weight limit:
+def weighted_calculator(remaining_limit, i):          
     if i == n:
         return 0, []
     taken_value = 0
@@ -34,8 +34,8 @@ def weighted_calculator(remaining_limit, i):          # This only considers weig
     else:
         return wasnt_taken_value, wasnt_taken_list
 
-
-def timed_calculator(remaining_limit, i):          # This only considers time limit.
+# This function only considers time limit:
+def timed_calculator(remaining_limit, i):          
     if i == n:
         return 0, []
     taken_value = 0
@@ -51,8 +51,8 @@ def timed_calculator(remaining_limit, i):          # This only considers time li
     else:
         return wasnt_taken_value, wasnt_taken_list
 
-
-def overall_calculator(remaining_weight, remaining_time, i):          # This considers botj weight and time limit.
+# This function considers both weight and time limit:
+def overall_calculator(remaining_weight, remaining_time, i):         
     if i == n:
         return 0, []
     taken_value = 0
@@ -91,14 +91,23 @@ part_2_1, part_2_list = timed_calculator(time_limit, 0)
 part_2_list = quick(part_2_list)
 part_3_1, part_3_list = overall_calculator(weight_limit, time_limit, 0)
 part_3_list = quick(part_3_list)
+
+# In the first output file, only the weight limitations are considered. 
+# In other words, we assume that the detective has unlimited amounts of time.
 p1 = open('solution_part1.txt', 'w')
 p1.write(str(part_1_1) + '\n')
 for e in part_1_list:
     p1.write(str(e) + ' ')
+
+# In the second output file, only the collection time is considered.
+# In other words, we assume that the detective has unlimited weight capacity. 
 p2 = open('solution_part2.txt', 'w')
 p2.write(str(part_2_1) + '\n')
 for e in part_2_list:
     p2.write(str(e) + ' ')
+    
+# In the third output file, both weights and collection time are considered. 
+# In other words, we use all of the information given in the input file.
 p3 = open('solution_part3.txt', 'w')
 p3.write(str(part_3_1) + '\n')
 for e in part_3_list:
