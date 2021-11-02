@@ -1,0 +1,15 @@
+Operator 0 : 0 0 3.62
+Operator 1 : 24 14 0.00
+Operator 2 : 19 0 0.00
+Operator 3 : 19 53 13.05
+Operator 4 : 24 0 33.50
+Operator 5 : 0 14 0.00
+Customer 0 : 0.00 0.00
+Customer 1 : 23.59 0.00
+Customer 2 : 35.06 0.00
+Customer 3 : 2.52 8.24
+Customer 4 : 13.10 0.00
+Customer 5 : 7.98 0.00
+charlotte : 24
+thayer : 50
+charlotte : 21.14

@@ -1,0 +1,63 @@
+Operator 0 : 129 81 64.05
+Operator 1 : 36 0 0.00
+Operator 2 : 40 55 26.38
+Operator 3 : 314 127 166.54
+Operator 4 : 283 147 216.42
+Operator 5 : 393 114 213.48
+Operator 6 : 259 84 176.66
+Operator 7 : 0 0 0.00
+Operator 8 : 146 76 78.67
+Operator 9 : 283 125 189.65
+Operator 10 : 220 82 78.59
+Operator 11 : 109 91 48.19
+Operator 12 : 52 19 21.60
+Operator 13 : 194 64 46.75
+Operator 14 : 73 71 162.37
+Operator 15 : 487 119 236.35
+Operator 16 : 230 103 112.43
+Operator 17 : 594 174 216.97
+Operator 18 : 568 224 227.59
+Operator 19 : 9 0 13.67
+Operator 20 : 408 148 87.45
+Operator 21 : 273 81 113.13
+Operator 22 : 318 153 109.02
+Operator 23 : 46 58 17.83
+Operator 24 : 360 142 87.09
+Customer 0 : 33.05 0.00
+Customer 1 : 126.94 45.28
+Customer 2 : 52.79 28.41
+Customer 3 : 116.02 22.95
+Customer 4 : 89.15 8.04
+Customer 5 : 96.31 31.03
+Customer 6 : 141.21 0.62
+Customer 7 : 111.41 0.00
+Customer 8 : 111.01 35.10
+Customer 9 : 57.66 78.73
+Customer 10 : 78.98 0.00
+Customer 11 : 16.33 2.18
+Customer 12 : 42.90 28.48
+Customer 13 : 50.49 37.25
+Customer 14 : 90.52 81.28
+Customer 15 : 27.75 27.18
+Customer 16 : 123.32 22.02
+Customer 17 : 39.44 2.72
+Customer 18 : 97.09 47.74
+Customer 19 : 129.98 69.34
+Customer 20 : 56.17 59.22
+Customer 21 : 38.89 10.65
+Customer 22 : 150.53 0.00
+Customer 23 : 138.37 18.66
+Customer 24 : 48.07 58.04
+Customer 25 : 51.27 0.00
+Customer 26 : 22.24 169.49
+Customer 27 : 153.78 29.51
+Customer 28 : 70.86 82.87
+Customer 29 : 85.51 17.78
+Customer 30 : 96.88 1.95
+Customer 31 : 26.05 32.36
+Customer 32 : 75.80 0.00
+Customer 33 : 32.52 15.24
+Customer 34 : 45.54 60.20
+bsf : 272
+nefakt : 130
+ecyu : 167.30
