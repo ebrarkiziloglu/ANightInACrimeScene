@@ -1,9 +1,8 @@
-<br /><br /><br />
+<br /><br />
 <div align="center">
 <h1 align="center">Communication Simulation</h1>
 </div>
 
-<br />
 <br />
 <br />
 Today, surrounded by every aspect of technology, we regularly use digital tools and systems. One of the most popular systems that are used every day is the communication system. This project implements a simple version of a communication system. The following documentations briefly explains the content and duty  of the classes, input and output formats, how the project is designed, and the installation details.
