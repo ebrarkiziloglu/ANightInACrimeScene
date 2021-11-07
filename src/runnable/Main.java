@@ -21,11 +21,6 @@ public class Main {
 		File inFile = new File(args[0]);  // args[0] is the input file
 		File outFile = new File(args[1]);  // args[1] is the output file
 		
-//		try {
-//			PrintStream outstream = new PrintStream(outFile);
-//		} catch (FileNotFoundException e1) {
-//			e1.printStackTrace();
-//		}
 
 		Scanner reader;
 		try {
@@ -41,8 +36,6 @@ public class Main {
 
 		customers = new Customer[C];
 		operators = new Operator[O];
-
-		//DO_NOT_EDIT_ANYTHING_ABOVE_THIS_LINE
 
 		
 
@@ -243,7 +236,6 @@ public class Main {
 		reader.close();
 		outstream1.close();
 
-		//DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
 	} 
 }
 
