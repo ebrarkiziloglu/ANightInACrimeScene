@@ -1,0 +1,22 @@
+Operator 0 : 382 230 144.89
+Operator 1 : 341 181 211.55
+Operator 2 : 284 39 97.40
+Operator 3 : 200 107 159.30
+Operator 4 : 138 126 198.53
+Operator 5 : 15 0 0.00
+Operator 6 : 328 227 208.96
+Operator 7 : 280 284 243.92
+Operator 8 : 143 37 61.30
+Operator 9 : 0 11 25.51
+Operator 10 : 57 27 14.01
+Customer 0 : 151.72 36.47
+Customer 1 : 164.78 54.13
+Customer 2 : 109.38 15.62
+Customer 3 : 116.94 14.95
+Customer 4 : 115.50 31.12
+Customer 5 : 93.15 55.29
+Customer 6 : 134.03 58.04
+Customer 7 : 108.22 114.05
+nb : 306
+hpb : 212
+nimb : 210.49
